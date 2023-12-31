@@ -5,10 +5,10 @@ This project is a simple web-based calculator application built using [insert te
 Features:
 Basic Arithmetic Operations:
 
-Addition
-Subtraction
-Multiplication
-Division
+1.Addition
+2.Subtraction
+3.Multiplication
+4.Division
 User-Friendly Interface:
 
 Clean and intuitive design for easy use.
