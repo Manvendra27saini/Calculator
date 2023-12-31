@@ -1,27 +1,35 @@
-# Calculator
-Overview:
-This project is a simple web-based calculator application built using [insert technologies/frameworks/libraries used, e.g., HTML, CSS, JavaScript]. The calculator provides basic arithmetic operations, making it a handy tool for users to perform calculations directly from their web browser.
+# Calculator Web App
 
-Features:
-Basic Arithmetic Operations:
+## Overview
 
-1.Addition
-2.Subtraction
-3.Multiplication
-4.Division
-User-Friendly Interface:
+This project is a straightforward web-based calculator application designed for users to perform basic arithmetic operations directly from their web browsers. Built with HTML, CSS, and JavaScript, the calculator provides a user-friendly interface with a clean design, making it easy to use for various screen sizes. Additionally, the application includes robust error handling to gracefully manage invalid inputs and operations.
 
-Clean and intuitive design for easy use.
-Responsive layout for various screen sizes.
-Error Handling:
+## Features
 
-Graceful handling of invalid inputs and operations.
-Technologies Used:
-Frontend:
+### Basic Arithmetic Operations
 
-HTML
-CSS
-JavaScript
-Version Control:
+- Addition
+- Subtraction
+- Multiplication
+- Division
 
-Git
+### User-Friendly Interface
+
+- Clean and intuitive design for easy use.
+- Responsive layout for various screen sizes.
+
+### Error Handling
+
+- Graceful handling of invalid inputs and operations.
+
+## Technologies Used
+
+### Frontend
+
+- HTML
+- CSS
+- JavaScript
+
+### Version Control
+
+- Git
