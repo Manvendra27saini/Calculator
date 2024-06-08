@@ -25,6 +25,8 @@ This project is a straightforward web-based calculator application designed for 
 ## Technologies Used
 
 ### Frontend
+<img width="706" alt="image" src="https://github.com/Manvendra27saini/Calculator/assets/121102169/2165155a-e65d-4dbe-afef-c83dae7f9a68">
+
 
 - HTML
 - CSS
